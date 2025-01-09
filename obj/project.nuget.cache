@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hW8/FhS/V0gxg5tlo/MpwJETFG6kR6+ror62q/XXJ0Hs/DXm3Pq1Nq/aX99rmVb8cDORHNpQcIINwjOU0pLr3Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\c#\\target-challenge\\target-challenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jsilv\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

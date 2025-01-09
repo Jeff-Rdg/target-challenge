@@ -1,0 +1,17 @@
+D:\Projects\c#\target-challenge\bin\Debug\net8.0\target-challenge.exe
+D:\Projects\c#\target-challenge\bin\Debug\net8.0\target-challenge.deps.json
+D:\Projects\c#\target-challenge\bin\Debug\net8.0\target-challenge.runtimeconfig.json
+D:\Projects\c#\target-challenge\bin\Debug\net8.0\target-challenge.dll
+D:\Projects\c#\target-challenge\bin\Debug\net8.0\target-challenge.pdb
+D:\Projects\c#\target-challenge\obj\Debug\net8.0\target-challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\c#\target-challenge\obj\Debug\net8.0\target-challenge.AssemblyInfoInputs.cache
+D:\Projects\c#\target-challenge\obj\Debug\net8.0\target-challenge.AssemblyInfo.cs
+D:\Projects\c#\target-challenge\obj\Debug\net8.0\target-challenge.csproj.CoreCompileInputs.cache
+D:\Projects\c#\target-challenge\obj\Debug\net8.0\target-challenge.dll
+D:\Projects\c#\target-challenge\obj\Debug\net8.0\refint\target-challenge.dll
+D:\Projects\c#\target-challenge\obj\Debug\net8.0\target-challenge.pdb
+D:\Projects\c#\target-challenge\obj\Debug\net8.0\target-challenge.genruntimeconfig.cache
+D:\Projects\c#\target-challenge\obj\Debug\net8.0\ref\target-challenge.dll
+D:\Projects\c#\target-challenge\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projects\c#\target-challenge\obj\Debug\net8.0\target-challenge.csproj.AssemblyReference.cache
+D:\Projects\c#\target-challenge\obj\Debug\net8.0\target-c.715287D9.Up2Date
